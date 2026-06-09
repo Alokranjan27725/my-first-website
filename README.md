@@ -1,5 +1,5 @@
 # My First Website
 
-This is a simple static website deployed on GitHub Pages.
+यह वेबसाइट GitHub Pages पर होस्ट की गई है।
 
-Visit: https://Alokranjan27725.github.io/my-first-website/
+🌐 Live Demo: https://Alokranjan27725.github.io/my-first-website/
